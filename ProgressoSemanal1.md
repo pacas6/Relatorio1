@@ -21,5 +21,7 @@ Foi iniciado o desenvolvimento de uma versão mais detalhada do Modelo Entidade-
 Foram criadas duas personas (posteriormente adicionadas ao relatório do projeto). Para cada uma delas, foram definidas carateristicas que justificassem a necessidade de utilização da nossa aplicação.
 Iniciado o desenvolvimento da Documentação REST API, onde foram indicados os métodos de acesso aos recursos (CRUD Operations), os seus respetivos endpoints e os titulos e descrições de cada método da API a ser implementada. Foram também incluidos na Documentação os dados necessários para cada método, o resultado esperado para cada um deles, assim como a "descrição" de "Exceptions", caso ocorra algum erro ao realizar o método.
 Foram também testadas algumas API's que possam vir a ser uteis para implementar algumas das funcionalidades desejadas para a app ("Google Maps API", "Google Places API" e "Facebook API").
+Partimos para implementação de mais uma das diversas funcionalidades da BusyBrain, que é a activity tarefas, onde o usuario poderá fazer a edição e a remoçao de quais quer tarefas que deseja, bem como assinalar aquelas ja terminadas pelo mesmo. 
+
 
 
