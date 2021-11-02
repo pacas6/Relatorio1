@@ -29,4 +29,4 @@ Foi revisto ainda o "path" (progresso do utilizador na app) da aplicação.
 
 ## Semana 6 (1 - 7 Novembro)
 
-Para Esta Semana foram definidos os modelos ER para base de dados do prototipo da aplicação para a segunda delivery.
+Para Esta Semana foram definidos os modelos ER para base de dados do prototipo da aplicação para segunda entrega, e foi feita a implementação deste mesmo modelo ER na pratica, utilizando a platorma PostGres Admin.
